@@ -1,10 +1,10 @@
-**** Updated to 1.2.4 in Sept 2017 java cohort to current versions of plugins:
+**** Updated to 1.2.4 in Oct 2017 java cohort to current versions of plugins:
 
 jquery 3.2.1
 Bootstrap 4.0 beta
 Spring: 5.0.0.RELEASE
 aspectjtools: 1.8.11
-apache aommons-dbcp2: 2.1.1
+apache commons-dbcp2: 2.1.1
 mysql-connector: 8.0.8-dmr
 javax.servlet api: 4.0.0
 javax.inject 1
