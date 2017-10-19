@@ -1,0 +1,16 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<component name="libraryTable">
+  <library name="Maven: com.fasterxml:classmate:1.${version}">
+    <CLASSES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/fasterxml/classmate/1.${version}/classmate-1.${version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/fasterxml/classmate/1.${version}/classmate-1.${version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://${symbol_dollar}MAVEN_REPOSITORY${symbol_dollar}/com/fasterxml/classmate/1.${version}/classmate-1.${version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
